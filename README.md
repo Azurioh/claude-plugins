@@ -14,7 +14,7 @@ Each plugin lives in **its own repository** and is versioned independently — t
 
 | Plugin | Install | What it does |
 |---|---|---|
-| [speckit-brainstorm](https://github.com/Azurioh/speckit-brainstorm) | `/plugin install speckit-brainstorm@claude-plugins` | Conversational guide through the full [GitHub Spec Kit](https://github.com/github/spec-kit) workflow — challenges your idea, then runs each speckit step behind a preview-and-confirm gate. Installs speckit (latest release) if it's missing. |
+| [speckit-brainstorm](https://github.com/Azurioh/speckit-brainstorm) | `/plugin install speckit-brainstorm@azurioh-plugins` | Conversational guide through the full [GitHub Spec Kit](https://github.com/github/spec-kit) workflow — challenges your idea, then runs each speckit step behind a preview-and-confirm gate. Installs speckit (latest release) if it's missing. |
 
 ## Adding a new plugin to this marketplace
 
