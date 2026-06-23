@@ -8,9 +8,9 @@
       "description": "Conversational guide for the full GitHub Spec Kit workflow — installs speckit (latest release) if missing."
     },
     {
-      "name": "weekly-recap",
-      "source": { "source": "github", "repo": "Azurioh/weekly-recap" },
-      "description": "7-day change recap command — a detailed technical section plus a plain-language summary for non-technical readers. Optional GitHub PR enrichment (gh) and markdown export."
+      "name": "git-recap",
+      "source": { "source": "github", "repo": "Azurioh/git-recap" },
+      "description": "Recap a repo's changes over any time window described in plain language — a detailed technical section plus a plain-language summary for non-technical readers. Optional GitHub PR enrichment (gh) and markdown export."
     }
   ]
 }

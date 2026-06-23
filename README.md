@@ -15,7 +15,7 @@ Each plugin lives in **its own repository** and is versioned independently — t
 | Plugin | Install | What it does |
 |---|---|---|
 | [speckit-brainstorm](https://github.com/Azurioh/speckit-brainstorm) | `/plugin install speckit-brainstorm@azurioh-plugins` | Conversational guide through the full [GitHub Spec Kit](https://github.com/github/spec-kit) workflow — challenges your idea, then runs each speckit step behind a preview-and-confirm gate. Installs speckit (latest release) if it's missing. |
-| [weekly-recap](https://github.com/Azurioh/weekly-recap) | `/plugin install weekly-recap@azurioh-plugins` | `/weekly-recap` builds a recap of the last 7 days of repo changes — a detailed technical section plus a plain-language summary for non-technical readers. Optional GitHub PR enrichment (`--prs`, needs `gh`) and markdown export (`--save`). |
+| [git-recap](https://github.com/Azurioh/git-recap) | `/plugin install git-recap@azurioh-plugins` | `/git-recap` recaps your repo's changes over any time window you describe in plain language ("les 2 derniers jours", "2 weeks", "1 mois") — a detailed technical section plus a plain-language summary for non-technical readers. Optional GitHub PR enrichment (`--prs`, needs `gh`) and markdown export (`--save`). |
 
 ## Adding a new plugin to this marketplace
 
